@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wallys-house-mancora.vercel.app/sitemap.xml
